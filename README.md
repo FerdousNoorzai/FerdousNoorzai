@@ -1,4 +1,4 @@
-[![MasterHead][https://reffect.co.jp/wp-content/uploads/2020/09/next_js_basic-1024x585.png](https://ferdousnoorzai.github.io/ferdousportfolio/)
+[![MasterHead][(https://reffect.co.jp/wp-content/uploads/2020/09/next_js_basic-1024x585.png)](https://ferdousnoorzai.github.io/ferdousportfolio/)
 <h1 align="center">Hi 👋, I'm Ferdous Noorzai</h1>
 <h3 align="center">A passionate and capable Full Stack developer in England</h3>
 <img align="right" alt="Coding" width="400" src="https://www.guvi.in/blog/wp-content/uploads/2022/11/giphyFSD.gif">
