@@ -1,4 +1,4 @@
-[![MasterHead][(https://blog.nitsantech.com/fileadmin/ns_theme_ns2019/blog/_live/What_is_the_MERN_stack_and_how_do_I_use_it_/What_is_the_MERN_stack_and_how_do_I_use_it.jpg)](https://blog.nitsantech.com/fileadmin/ns_theme_ns2019/blog/_live/What_is_the_MERN_stack_and_how_do_I_use_it_/What_is_the_MERN_stack_and_how_do_I_use_it.jpg)
+(https://blog.nitsantech.com/fileadmin/ns_theme_ns2019/blog/_live/What_is_the_MERN_stack_and_how_do_I_use_it_/What_is_the_MERN_stack_and_how_do_I_use_it.jpg)
 <h1 align="center">Hi 👋, I'm Hosein Moradi</h1>
 <h3 align="center">A passionate and capable front end developer from Iran</h3>
 <img align="right" alt="Coding" width="400" src="https://www.guvi.in/blog/wp-content/uploads/2022/11/giphyFSD.gif">
