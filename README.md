@@ -1,23 +1,16 @@
-(https://blog.nitsantech.com/fileadmin/ns_theme_ns2019/blog/_live/What_is_the_MERN_stack_and_how_do_I_use_it_/What_is_the_MERN_stack_and_how_do_I_use_it.jpg)
-<h1 align="center">Hi 👋, I'm Hosein Moradi</h1>
-<h3 align="center">A passionate and capable front end developer from Iran</h3>
+[![MasterHead](https://images.hdqwalls.com/download/boat-moon-minimal-landscape-5k-3f-1000x400.jpg)](https://devhosein.fun)
+<h1 align="center">Hi 👋, I'm Ferdous Noorzai</h1>
+<h3 align="center">A passionate and capable Full Stack developer in England</h3>
 <img align="right" alt="Coding" width="400" src="https://www.guvi.in/blog/wp-content/uploads/2022/11/giphyFSD.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dev-hosein-moradi&label=Profile%20views&color=0e75b6&style=flat" alt="dev-hosein-moradi" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dev-hosein-moradi" alt="dev-hosein-moradi" /></a> </p>
+- 🌱 I’m professional in **React.js,TypeScript, Next.js, Tailwind**
 
-- 🔭 I’m currently working on [Freelancing work](devhosein.fun)
+- 👨‍💻 All of my projects are available at [(https://ferdousnoorzai.github.io/ferdousportfolio/)]
 
-- 🌱 I’m currently learning **React.js,TypeScript, Next.js, Tailwind**
+- 💬 Ask me anything about **HTML, CSS, JAVSCRIPT, TYPESCRIPT, ReactJS, NEXTJS**
 
-- 👨‍💻 All of my projects are available at [devhosein.fun](devhosein.fun)
-
-- 💬 Ask me about **ReactJS, TypeScipt**
-
-- 📫 How to reach me **moradih7379@gmail.com**
-
-- 📄 Know about my experiences [shorturl.at/uwFW3](shorturl.at/uwFW3)
+- 📫 How to reach me **noorzaif0@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
