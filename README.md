@@ -1,4 +1,6 @@
-(https://media.istockphoto.com/id/1830042746/photo/document-management-system-dms-with-arrange-folder-and-files-icons-man-setup-storage-backup.jpg?s=1024x1024&w=is&k=20&c=6VBWueP7oSuaUPLIbG9kkeinHl0wkTn6d6XcgYQxlFM=)
+
+![systems-administrator](https://github.com/user-attachments/assets/b53630b2-c62e-4fbf-829b-657cab96de48)
+
 <h1 align="center">Hi 👋, I'm Ferdous Noorzai</h1>
 💻 IT Professional | 🧠 Programmer Turned Cybersecurity Enthusiast | 🔒 Building Secure & Automated Systems
 
