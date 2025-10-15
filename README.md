@@ -1,5 +1,6 @@
 
-![systems-administrator](https://github.com/user-attachments/assets/b53630b2-c62e-4fbf-829b-657cab96de48)
+![128578729-abstract-glowing-circuit-coding-background-programming-and-technology-concept-3d-rendering](https://github.com/user-attachments/assets/ef8106d7-b38c-4d24-b449-a1ab05ea0eb9)
+
 
 <h1 align="center">Hi 👋, I'm Ferdous Noorzai</h1>
 💻 IT Professional | 🧠 Programmer Turned Cybersecurity Enthusiast | 🔒 Building Secure & Automated Systems
